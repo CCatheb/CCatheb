@@ -1,5 +1,5 @@
 # 💫 About Me:
-EGSE Engineer working for Airbus Defense & Space<br>Python programmer since 2017<br>🌱 Learning GoLang
+:space_invader: EGSE Engineer working for Airbus Defense & Space<br>:snake: Python programmer since 2017<br>🌱 Learning GoLang
 
 
 ## 🌐 Socials:
