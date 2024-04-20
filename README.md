@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Python Developer for EGNOS Project<br>🎓 Graduated in embedded electronics<br>🐍 Python programmer since 2017<br>🌱 Learning Rust <br> 👾Video games lover
+🚀 Python Developer<br>🎓 Graduated in embedded electronics<br>🐍 Python programmer since 2017<br>🌱 Learning Rust <br> 👾Video games lover
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/cedric-cathebras) 
